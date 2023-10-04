@@ -27,7 +27,7 @@
     </a>
 </p>
 
-<h3 align="left">Check it <a href="https://me.red-cat.hu/" target="_blank" rel="noreferrer">my portfolio site</a></h3>
-<h3 align="left">Connect with me: <a href="https://id.red-cat.hu/nn" target="_blank" rel="noreferrer">Digital business card</a></h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemnorbert&theme=transparent&hide=hack&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemnorbert&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">Check it <a href="https://me.red-cat.hu/" target="_blank" rel="noreferrer">my portfolio site</a></h3>
+<h3 align="center">Connect with me: <a href="https://id.red-cat.hu/nn" target="_blank" rel="noreferrer">Digital business card</a></h3>
