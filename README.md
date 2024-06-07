@@ -3,7 +3,7 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" width="40" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +18,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemnorbert&hide_border=true&theme=transparent&hide=hack&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"><a href="https://me.adanor.eu/" target="_blank" rel="noreferrer">Check My Portfolio</a></h3>
-<h3 align="center">Connect with me: <a href="https://adanor.eu/card/nn" target="_blank" rel="noreferrer"><br>My business card</a></h3>
+<h3 align="center">Connect with me: <a href="https://adanor.eu/c/nn" target="_blank" rel="noreferrer"><br>My business card</a></h3>
