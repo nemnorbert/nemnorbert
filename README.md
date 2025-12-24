@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Norbert Németh</h1>
-<h3 align="center">I am learning to become a frontend developer</h3>
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p align="left">
