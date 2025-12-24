@@ -12,8 +12,15 @@
     </a>
 </p>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemnorbert&hide_border=true&theme=transparent&hide=hack&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">Connect with me: <a href="https://lunel.eu/c/nn" target="_blank" rel="noreferrer"><br>My business card</a></h3>
+<div align="center">
+            <h3 align="center">Connect with me:</h3>
+            <a href="https://lunel.eu/c/nn" target="_blank" rel="noreferrer">
+            <img
+                src="https://cdn.lunel.eu/card/og_images/email_logo-v4.png"
+                width="150"
+                height="40"
+                alt="LUNEL"
+                style="display:block;border:0;"
+              />
+            </a>
+</div>
