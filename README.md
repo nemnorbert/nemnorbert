@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemnorbert&hide_border=true&theme=transparent&hide=hack&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="center">Connect with me: <a href="https://adanor.eu/c/nn" target="_blank" rel="noreferrer"><br>My business card</a></h3>
+<h3 align="center">Connect with me: <a href="https://lunel.eu/c/nn" target="_blank" rel="noreferrer"><br>My business card</a></h3>
